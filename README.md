@@ -1,5 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-gu5z4t7QXkw/Xd8bEk6gVxI/AAAAAAAANhQ/jXlVfYNQbOw3Uj4zsxT3fqT5jdrZP4FFQCLcBGAsYHQ/s1600/2000_600px.gif)]
-
 <h1 align="center">Hi 👋, I'm Maleesha</h1>
 <h3 align="center">A mobile app and web developer from Sri Lanka</h3>
 
